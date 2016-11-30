@@ -1,0 +1,15 @@
+{
+  "name": "4_clipboard_demo",
+  "version": "1.0.0",
+  "product-name": "Clipboard Demo",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Cesar Barbosa",
+  "license": "ISC",
+  "devDependencies": {
+    "electron-prebuilt": "^1.4.5"
+  }
+}
